@@ -15,7 +15,7 @@ $ git clone git@github.com:gabriel-aranha/docker-redis.git
 ```
 Enter the folder:
 ```
-$ cd docker-redis
+$ cd pi-docker-redis
 ```
 Edit the redis.conf file to set the Redis server password:
 ```
@@ -25,7 +25,7 @@ Search for the line with Ctrl + W and then type #requirepass
 Uncomment the line and set a new password by changing my-password to the desired password
 
 ### Running
-Command to build Docker container:
+Command to build Docker image:
 ```
 $ docker build -t redis .
 ```
