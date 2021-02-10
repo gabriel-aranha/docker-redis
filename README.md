@@ -11,7 +11,7 @@ Docker version 20.10.3, build 48d30b5
 ### Setup
 Clone this repository:
 ```
-$ git clone git@github.com:gabriel-aranha/docker-redis.git
+$ git clone git@github.com:gabriel-aranha/pi-docker-redis.git
 ```
 Enter the folder:
 ```
