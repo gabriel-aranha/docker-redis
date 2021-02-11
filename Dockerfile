@@ -1,4 +1,4 @@
-# Base redis image for arm64v8 architecture
+# Base Redis image for arm64v8 architecture
 FROM arm64v8/redis:6.0
 
 # Copy Redis Configuration file into the directory
