@@ -1,5 +1,5 @@
-# Base Redis image for arm64v8 architecture
-FROM arm64v8/redis:6.0
+# Base Redis image
+FROM redis:6.0
 
 # Copy Redis Configuration file into the directory
 COPY redis.conf /usr/local/etc/redis/redis.conf
