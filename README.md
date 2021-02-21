@@ -5,11 +5,11 @@
 ### Setup
 Clone this repository:
 ```
-$ git clone git@github.com:gabriel-aranha/pi-docker-redis.git
+$ git clone git@github.com:gabriel-aranha/docker-redis.git
 ```
 Enter the folder:
 ```
-$ cd pi-docker-redis
+$ cd docker-redis
 ```
 Edit the redis.conf file to set the Redis server password:
 ```
