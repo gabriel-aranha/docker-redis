@@ -31,6 +31,3 @@ The Redis server can then be accessed from other systems using the following ip 
 ```
 <ip-on-local-network>:6379
 ```
-
-Reference link and credits:  
-[https://thisdavej.com/how-to-install-redis-on-a-raspberry-pi-using-docker/]
