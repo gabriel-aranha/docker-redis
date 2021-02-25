@@ -1,5 +1,5 @@
 # Base Redis image
-FROM redis:6.0
+FROM redis:latest
 
 # Copy Redis Configuration file into the directory
 COPY redis.conf /usr/local/etc/redis/redis.conf
